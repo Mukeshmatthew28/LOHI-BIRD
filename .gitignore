@@ -1,0 +1,7 @@
+ngrok.exe
+ngrok.zip
+*.pyc
+__pycache__/
+.vscode/
+save_image.py
+ADD_YOUR_IMAGE_HERE.txt
