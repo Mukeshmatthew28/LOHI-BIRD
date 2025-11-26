@@ -2,6 +2,10 @@
 
 A polished, production-quality Flappy Bird clone built with HTML5 Canvas and pure JavaScript.
 
+## 🎮 Play Now
+
+**[Play Lohi Bird](https://mukeshmatthew28.github.io/LOHI-BIRD/)**
+
 ## Features ✨
 
 - **Smooth Physics**: Realistic gravity and flapping mechanics
